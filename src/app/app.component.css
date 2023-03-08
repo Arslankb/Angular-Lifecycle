@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(222, 231, 231);
+    width: 1200px;
+    height: 200px;
+    margin-left: 70px;
+
+}
+
+input[type=text]{
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 20px;
+    height: 30px;
+    width: 250px;
+}
+
+button{
+    background-color: rgb(130, 134, 134);
+    height: 32px;
+    width: 80px;
+    margin-left: 10px;
+    border: none;
+}
